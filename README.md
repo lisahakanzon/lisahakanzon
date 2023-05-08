@@ -4,7 +4,6 @@ Want to know some more about me?
 
 - :woman_technologist: Fullstack developer @ [Storykit](https://storykit.io/)
 - :open_book: Computer Science Engineer with a Master's Degree in Industrial Management from KTH
-- :telescope:  Set my goal on reaching the [Kattis](https://open.kattis.com/users/lactaliez) top 100, _currently on spot 32111..._
 - :id: Pronouns are she/her
 - :soccer: Watching football is one of my favorite hobbies...
 - :weight_lifting_woman: ...along with weight lifting
