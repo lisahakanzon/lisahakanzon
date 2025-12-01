@@ -2,7 +2,7 @@
 
 Want to know some more about me?
 
-- :woman_technologist: Fullstack developer @ [Storykit](https://storykit.io/)
+- :woman_technologist: Fullstack developer
 - :open_book: Computer Science Engineer with a Master's Degree in Industrial Management from KTH
 - :id: Pronouns are she/her
 - :soccer: Watching football is one of my favorite hobbies...
